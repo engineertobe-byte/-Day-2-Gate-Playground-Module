@@ -7,19 +7,6 @@ This module builds a small library of reusable gate functions (X, Z, H, CNOT, To
 
 > **Reference:** `Week1_Quantum_Portfolio_Project.pdf`, Day 2 Core Task
 
----
-
-## 📁 Repository Structure
-
-```text
-your-username-week1-quantum/
-├── README.md                        
-├── task1_bell_states.ipynb          
-├── module_gates.py                  
-├── requirements.txt                 
-└── assets/
-    └── gate_demo_output.png         
-```
 
 ---
 
